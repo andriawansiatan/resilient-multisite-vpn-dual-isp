@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Network lab: image vendor & kredensial
+   *.qcow2
+   *.iso
+   *.bin
+   *.key
+   secrets*
