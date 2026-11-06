@@ -1,2 +1,2 @@
 # resilient-multisite-vpn-dual-isp
-Multi-vendor (Cisco, Juniper, MikroTik) site-to-site IPsec VPN connecting an HQ and two branch offices over the internet, with OSPF routing and automatic dual-ISP failover. Built in EVE-NG.
+A redundant site-to-site VPN design connecting an HQ and two branch offices over the internet, built on MikroTik with IPsec, OSPF, and automatic failover between two ISPs.
